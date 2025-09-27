@@ -100,7 +100,6 @@ Workflow:
 
 ## 📂 Project Structure  
 ```
-├── data/                # Dataset
 ├── notebooks/           # Jupyter notebooks (EDA, Cleaning, Feature Engineering)
 ├── models/              # Trained models (SVD, Hybrid)
 ├── app/                 # Deployment files (Streamlit, Chatbot)
